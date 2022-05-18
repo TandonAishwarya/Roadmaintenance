@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Road-Maintenance</string>
+    <string name="slide_1_title" translatable="false">Hello Folk!</string>
+    <string name="slide_1_desc" translatable="false">This app is to ease workload!
+        </string>
+
+    <string name="slide_2_title" translatable="false">Hassle free </string>
+    <string name="slide_2_desc" translatable="false">Now you can easily convert image to text</string>
+
+    <string name="slide_3_title" translatable="false">Minimize your work</string>
+    <string name="slide_3_desc" translatable="false">No need of manual work.click and upload</string>
+
+    <string name="slide_4_title" translatable="false">Stay Connected</string>
+    <string name="slide_4_desc" translatable="false">For Better Experience!</string>
+
+    <string name="next" translatable="false">NEXT</string>
+    <string name="skip" translatable="false">SKIP</string>
+    <string name="start" translatable="false">GOT IT</string>
+    <string name="title_activity_dash_board">DashBoardActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Tender Details</string>
+
+</resources>
